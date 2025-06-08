@@ -1,14 +1,10 @@
-# EDA and Modeling Project
-
-This project is designed to perform exploratory data analysis (EDA), feature engineering, and model training using a dataset related to client and pricing information.
+# EDA and Modeling Project For BCGx
 
 ## Project Structure
 
 - **data/**
   - **raw/**: Contains the original datasets.
-    - `clean_data_after_eda.csv`: The cleaned dataset after EDA.
-    - `client_data.csv`: Client-related data for analysis and modeling.
-    - `price_data.csv`: Pricing information relevant to the analysis.
+    - `clean_data_after_eda.csv`: Dataset.
   - **processed/**: Intended for storing processed datasets after feature engineering.
 
 - **notebooks/**: Contains Jupyter notebooks for analysis.
