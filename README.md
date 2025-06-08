@@ -9,13 +9,7 @@
 
 - **notebooks/**: Contains Jupyter notebooks for analysis.
   - `EDA_and_Modeling.ipynb`: A notebook for performing EDA, feature engineering, and model training.
-
-- **src/**: Contains source code for the project.
-  - `__init__.py`: Marks the directory as a Python package.
-  - `utils.py`: Utility functions for loading data and common tasks.
-  - `feature_engineering.py`: Contains the `create_features` function for feature creation.
-  - `modeling.py`: Contains functions for training and evaluating machine learning models.
-
+    
 - **requirements.txt**: Lists the dependencies required for the project.
 
 ## Setup Instructions
